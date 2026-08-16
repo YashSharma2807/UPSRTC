@@ -138,3 +138,12 @@ body, html {
 .main-btn svg {
     fill: #000;
 }
+/* This only applies to mobile phones and smaller screens */
+@media screen and (max-width: 768px) {
+    body {
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #111;
+    }
+}
