@@ -4,4 +4,3 @@ A responsive, web-based music player featuring vintage retro aesthetics inspired
 
 ## Live Demo
 Experience the live website here: [UPSRTC Music Player](https://upsrtc-fawn.vercel.app)
-how about this much only
